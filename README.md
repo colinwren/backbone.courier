@@ -2,6 +2,8 @@
 
 Easily bubble events ("messages") up your view hierarchy in your [Backbone.js](http://backbonejs.org/) applications.
 
+__Download [Backbone.Courier](https://github.com/rotundasoftware/backbone.courier/blob/master/zips/Backbone.Courier.zip?raw=true).__
+
 ## Benefits
 * Provides an intuitive message path through which views can communicate, free of explicit dependencies.
 * Is designed to promote encapsulation of concerns, and does not rely on the use of application globals.
